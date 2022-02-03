@@ -8,7 +8,7 @@ const App = () => {
   return (
             <div className='wrapped'>
                 <img src={bg} alt="" width="80%" />
-                <p>Comming soon..</p>
+                <p>Comming soon...</p>
             </div>
   );
 };
